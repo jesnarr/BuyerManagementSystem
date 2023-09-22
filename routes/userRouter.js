@@ -6,6 +6,7 @@ router.route('/users')
     .post(userCtrl.create)
 
 router.route('/users/:id')
+    .get(userCtrl.getUser)
     .patch(userCtrl.update)
 
 
