@@ -1,5 +1,3 @@
-# TreviPayCodingChallenge
-
 # api and  cd > client
 npm i
 
